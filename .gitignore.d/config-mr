@@ -1,0 +1,9 @@
+*
+!/.gitignore.d
+!/.gitignore.d/config-mr
+!/.config
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/config-zsh.vcsh
+!/.config/mr/available.d/desktop-openbox.vcsh
+!/.mrconfig
