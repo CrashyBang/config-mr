@@ -1,0 +1,6 @@
+[$HOME/.config/vcsh/repo.d/config-alacritty.git]
+checkout = vcsh clone https://github.com/CrashyBang/config-alacritty.git config-alacritty
+update = vcsh config-alacritty pull 
+push = vcsh config-alacritty push
+status = vcsh config-alacritty status
+gc = vcsh config-alacritty gc
