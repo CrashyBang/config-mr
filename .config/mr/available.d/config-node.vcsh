@@ -1,0 +1,6 @@
+[$HOME/.config/vcsh/repo.d/config-node.git]
+checkout = vcsh clone https://github.com/CrashyBang/config-node.git config-node
+update = vcsh config-node pull 
+push = vcsh config-node push
+status = vcsh config-node status
+gc = vcsh config-node gc
