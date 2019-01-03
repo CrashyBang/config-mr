@@ -1,0 +1,6 @@
+[$HOME/.config/vcsh/repo.d/config-bspwm.git]
+checkout = vcsh clone https://github.com/CrashyBang/config-bspwm.git config-bspwm
+update = vcsh config-bspwm pull 
+push = vcsh config-bspwm push
+status = vcsh config-bspwm status
+gc = vcsh config-bspwm gc
