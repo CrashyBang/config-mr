@@ -1,5 +1,5 @@
 [$HOME/.config/vcsh/repo.d/config-neofetch.git]
-checkout = vcsh clone https://github.com/CrashyBang/config-neofetch.git config-zsh
+checkout = vcsh clone https://github.com/CrashyBang/config-neofetch.git config-neofetch
 update = vcsh config-neofetch pull 
 push = vcsh config-neofetch push
 status = vcsh config-neofetch status
